@@ -9,7 +9,7 @@
     <Version>1.0.2</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/ElectNewt/Netmentor.DiContainer</RepositoryUrl>
-    <Descripcion>Dependency container which allow to build modular applications</Descripcion>
+    <Description>Dependency container which allow to build modular applications</Description>
   </PropertyGroup>
 
   <ItemGroup>
