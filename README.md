@@ -8,12 +8,13 @@ Easy way to manage Dependency injection across the projects of your solution
 ![NetMentor.DiContainer build result](https://github.com/ElectNewt/NetMentor.DiContainer/actions/workflows/build.yml/badge.svg)
 
 
+
+
 ## Netmentor.DiContainer in NUGET
 
 | Pacakge in nuget        | .NET Standard | 
 | ------------- |:-------------:|
-| [Netmetnor.ROP](https://www.nuget.org/packages/Netmentor.ROP)      | 2.0 | 
-
+| [Netmetnor.DiContainer](https://www.nuget.org/packages/Netmentor.DiContainer/)      | 2.1 | 
 
 ## Issues and contributing
 
